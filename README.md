@@ -1,2 +1,2 @@
-# general-issues
-Ongoing issues and brainstorming for development
+# General Issues
+Ongoing issues and brainstorming for development.
